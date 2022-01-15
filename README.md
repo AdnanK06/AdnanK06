@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AdnanK06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Adnan Khan
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Whatever is comming in my way 😁😜.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AdnanK06/AdnanK06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me adnaank112@gmail.com
